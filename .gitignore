@@ -1,0 +1,12 @@
+*.wav
+.DS_Store
+.vscode/
+.idea/
+*.swp
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+*.pdf
